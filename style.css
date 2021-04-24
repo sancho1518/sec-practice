@@ -1,0 +1,11 @@
+table{
+	background-color: red;
+	border: solid;
+}
+
+p {
+	color: blue;
+}
+.heading {
+	font-size: 50px;
+}
